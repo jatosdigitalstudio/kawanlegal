@@ -35,12 +35,6 @@ export default function Service() {
                     </div>
                 </div>
             </div>
-            {/* <div className="z-40 my-8">
-                <h6 className="text-white text-center">
-                    If you have any legal problem in your life... 
-                    <span className="text-[#E0C392] font-bold underline px-2">Free Consultation</span>
-                </h6>
-            </div> */}
         </section>
     )
 }

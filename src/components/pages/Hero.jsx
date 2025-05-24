@@ -24,8 +24,8 @@ export default function Hero() {
                     </p>
                 </div>
                 <div className="flex flex-col md:flex-row mx-auto mt-6 justify-start gap-2 md:gap-4">
-                    <Link href="/#about" scroll className="bg-yellow text-black px-6 py-3 rounded-md">
-                        Konsultasi gratis
+                    <Link href="/#tentang" scroll className="bg-yellow text-black px-6 py-3 rounded-md">
+                        Pelajari selengkapnya
                     </Link>
                 </div>
             </div>

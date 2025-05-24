@@ -21,7 +21,7 @@ export default function About() {
                     </div>
                     <div className="md:px-12 overflow-hidden rounded-lg">
                         <Image 
-                            src="https://images.pexels.com/photos/8112172/pexels-photo-8112172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                            src="https://images.pexels.com/photos/7876051/pexels-photo-7876051.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             width={500} 
                             height={500} 
                             alt="about lawfirm" 
