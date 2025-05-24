@@ -6,7 +6,7 @@ export default function Team() {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8 place-items-center ">
                     <div className="overflow-hidden rounded-lg">
                         <Image 
-                            src="/images/tim-kawanlegal.png" 
+                            src="/images/tim-kl.png" 
                             width={550} 
                             height={550} 
                             alt="Kawan Legal" 
