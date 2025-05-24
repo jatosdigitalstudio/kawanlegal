@@ -32,7 +32,6 @@ export default function Team() {
                                 <ul className="list-disc ml-4 space-y-2">
                                     <li>Muhamad Rafqi Mizi SH</li>
                                     <li>Fikra Abdul Razaq Faraid Sabban SH</li>
-                                    <li>Fadhiil Fadlullah SH,</li>
                                     <li>Jalal Wangsi SH</li>
                                 </ul>
                             </div>
