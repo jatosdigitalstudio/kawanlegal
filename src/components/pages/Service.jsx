@@ -4,8 +4,8 @@ import Image from "next/image"
 
 export default function Service() {
     return (
-        <section className="relative flex flex-col justify-center items-center p-6 md:mb-20 bg-[url(https://images.unsplash.com/photo-1505663912202-ac22d4cb3707?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)] bg-cover bg-no-repeat">
-            <div className="absolute inset-0 bg-red/80 z-10" />
+        <section className="relative flex flex-col justify-center items-center p-6 md:mb-20 z-20 bg-[url(https://images.unsplash.com/photo-1505663912202-ac22d4cb3707?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)] bg-cover bg-no-repeat">
+            <div className="absolute inset-0 bg-red/80 !z-10" />
             <div className="container mx-auto md:w-[85%] z-30 py-12" id="layanan">
                 <div className="relative flex flex-col bg-red rounded-xl py-4 md:py-16 md:px-12 md:mt-[-20rem] mb-8 overflow-hidden bg-[url(https://images.pexels.com/photos/7841486/pexels-photo-7841486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)] bg-cover bg-no-repeat">
                     <div className="absolute inset-0 bg-black/75 z-10" />

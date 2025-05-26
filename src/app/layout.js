@@ -2,6 +2,7 @@ import { Montserrat, Open_Sans } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import BackToTopButton from "@/components/ui/BackToTopButton";
 
 const fontStyle = Montserrat({
   variable: "--font-style",
@@ -22,6 +23,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${fontStyle.variable} ${fontText.variable} font-text antialiased`}>
+        <BackToTopButton/>
         <Header/>
         {children}
         <Footer/>
