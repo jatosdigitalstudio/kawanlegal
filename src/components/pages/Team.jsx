@@ -31,7 +31,7 @@ export default function Team() {
                                 <h6 className="text-lg font-bold mb-2">Duduk dari sebelah kiri: </h6> 
                                 <ul className="list-disc ml-4 space-y-2">
                                     <li>Muhamad Rafqi Mizi SH</li>
-                                    <li>Fikra Abdul Razaq Faraid Sabban SH</li>
+                                    <li className="font-bold">Fikram Abdul Razaq Faraid Sabban SH</li>
                                     <li>Jalal Wangsi SH</li>
                                 </ul>
                             </div>
