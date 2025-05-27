@@ -34,10 +34,9 @@ export default function Footer() {
                         <h3 className="font-style font-semibold text-xl mb-2">Alamat Kantor</h3>
                         <div className=" text-md ">
                             <Link href="/" className="text-gray-800"> 
-                                Apartemen Signature Park Grande, RGF 11, <br />
-                                Jl. Letjen M.T. Haryono No.Kav.20, RT.4/RW.1,
-                                Cawang, Kec. Kramat jati, Kota Jakarta Timur,
-                                Daerah Khusus Ibukota Jakarta 13630
+                              Jl. Moch. Kahfi II Nomor 28a, RT 001 RW 004,
+                              Kelurahan Ciganjur, Kecamatan Jagakarsa,
+                              Jakarta Selatan. DKI Jakarta 12620
                             </Link>
                         </div>
                     </div>
