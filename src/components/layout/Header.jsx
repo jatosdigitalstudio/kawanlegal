@@ -52,7 +52,7 @@ export default function Header() {
           </div>
 
           <div className="hidden md:flex">
-            <Link href="/">
+            <Link href="/#footer">
                 <div className="bg-red px-8 py-2 rounded-md">
                     <p className='text-white'>Kontak kami</p>
                 </div>
