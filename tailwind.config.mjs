@@ -13,7 +13,7 @@ export default {
         style: ['var(--font-style)'],
       },
       colors: {
-        red: '#DA212D',
+        red: '#650D13',
         yellow: '#FEC344'
       },
     },

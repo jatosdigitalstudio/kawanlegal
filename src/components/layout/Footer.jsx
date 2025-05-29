@@ -7,7 +7,7 @@ export default function Footer() {
           <div className="grid rid-cols-1 md:grid-cols-3 grid-rows-1  gap-6 mb-12">
             <div className="flex items-center mb-2 max-w-md">
                 <Link href="/" >
-                    <Image src="/images/logo-kawanlegal.png" width={300} height={100} alt='Kawan Legal' />
+                    <Image src="/images/LOGO.png" width={300} height={100} alt='Kawan Legal' />
                 </Link>
             </div>
             <div className="col-span-2">
@@ -44,7 +44,7 @@ export default function Footer() {
             </div>
           </div>
           <div className="border-t border-maroon mt-4 md:mt-2 pt-8 text-center text-sm md:text-md">
-            <p>© 2025 KAWAN LEGAL. All rights reserved.</p>
+            <p>© 2025 PT Kawan Legal Services. All rights reserved.</p>
           </div>
         </div>
       </footer>

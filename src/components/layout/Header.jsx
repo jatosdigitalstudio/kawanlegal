@@ -13,8 +13,7 @@ export default function Header() {
     { name: 'Home', path: '/' },
     { name: 'Tentang Kami', path: '/#tentang' },
     { name: 'Layanan Hukum', path: '/#layanan' },
-    { name: 'Tim', path: '/#timhukum' },
-    { name: 'Klien', path: '/#klien' },
+    { name: 'Klien Kami', path: '/#klien' },
   ];
 
   useEffect(() => {
@@ -34,7 +33,7 @@ export default function Header() {
       <div className="lg:container mx-auto p-6 ">
         <div className="flex justify-between items-center">
           <Link href="/">
-            <Image src="/images/logo-kawanlegal.png" width={200} height={100} alt='Kawan Legal' />
+            <Image src="/images/LOGO.png" width={200} height={100} alt='Kawan Legal' />
           </Link>
 
 
